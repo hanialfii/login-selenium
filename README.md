@@ -1,4 +1,2 @@
-# login-selenium
-## first, we need to import library time
-set the time interval for automatically opening the web page
-
+# login web using selenium
+This project is a simple web scraping automation built with selenium and beautifulSoup it logs
